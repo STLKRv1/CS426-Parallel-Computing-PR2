@@ -1,0 +1,19 @@
+# of documents: 50
+dictionary size: 3
+k: 10
+# of processes: 4
+Sequential Part: 0.277150 ms
+Parallel Part: 0.832180 ms
+Total Time: 1.109330 ms
+Least k = 10 ids:
+2
+12
+42
+5
+10
+16
+3
+46
+1
+9
+
