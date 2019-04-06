@@ -1,7 +1,7 @@
 # -CS426-Parallel-Computing-PR2
 Parallel Open-MPI implementation of simplified Supervised Search
 
-To compile: "mpicc –o documentSearch main.c utils.h utils.c –lm" to linux termianl.
+To compile: "mpicc –o documentSearch main.c utils.h utils.c –lm" to linux terminal.
 
 To execute: mpirun –n X ./documentSearch dictionarySize kValue documents.txt query.txt
 X is number of threads
